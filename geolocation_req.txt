@@ -1,0 +1,8 @@
+matplotlib
+pandas
+seaborn
+scikit-learn
+scipy
+opencv-python
+fuzzywuzzy[speedup]
+shapely
