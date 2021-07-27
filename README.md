@@ -1,8 +1,8 @@
 # Automatic Georeferencing of Topographic Raster Maps
 
-Supplementary code for the paper submission: Automatic Georeferencing of Topographic Raster Maps
+Accompanying code for the paper submission: Automatic Georeferencing of Topographic Raster Maps
 
-Note to editors: The code is not final and may be reformatted or cleaned.
+**Note:** This code is not final and may be reformatted or cleaned.
 
 # Getting Started
 
@@ -22,7 +22,7 @@ pip install -r geolocation_req.txt
 
 ## Using
 
-**geolocation.ipynb** presents the code used to geolocate the maps and also the results of each step in the process. This code can be directly run after cloning the repository and installing the requirements. Plots of the final predictions are saved in the plots directory. The full geolocation code and results are viewable in an interactive [Colab Notebook](https://drive.google.com/file/d/1iyqL_O3xZQgjyNRG7xutePh1v1DBhYuL/view?usp=sharing)
+**geolocation.ipynb** presents the code used to geolocate the maps and also the results of each step in the process. This code can be directly run after cloning the repository and installing the requirements. Plots of the final predictions are saved in the plots directory. The full geolocation code and results are viewable in an interactive [Colab Notebook](https://drive.google.com/file/d/1iyqL_O3xZQgjyNRG7xutePh1v1DBhYuL/view?usp=sharing).
 
 ![Final prediction](figures/final.png "Final prediction")
 
