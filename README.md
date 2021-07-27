@@ -8,7 +8,7 @@ Note to editors: The code is not final and may be reformatted or cleaned.
 
 ## Installation
 
-**Python >= 3.6 and TensorFlow >= 2.0.0** required for the text recognition part (used [keras-ocr](https://github.com/faustomorales/keras-ocr)), Tensorflow is not required for the geolocation part.
+**Python >= 3.6 and TensorFlow >= 2.0.0** required for the text recognition part (used [keras-ocr](https://github.com/faustomorales/keras-ocr)), Tensorflow is not required for the geolocation part. **Numba** required to speed up the geolocation part.
 
 Text recognition:
 ```python
